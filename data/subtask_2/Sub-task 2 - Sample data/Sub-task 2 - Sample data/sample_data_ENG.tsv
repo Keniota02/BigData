@@ -1,0 +1,115 @@
+question	correct_answer	choiceA	choiceB	choiceC	choiceD	choiceE	custom_id	difficulty_level
+"1. The traditional multidomestic company has a high level of global aggregation and a low level of local adaptation. 
+2. The international organizational model is characterized by companies having a strong dependence on their domestic sales and exporting products opportunistically. 
+3. The transnational model aims to minimize management processes in order to become more efficient in decision making. 
+4. The multidomestic organizational model allows for significant knowledge transfer from a company's headquarters to its subsidiaries. 
+5. Global companies operate with globally integrated strategies primarily to enhance economies of scale and scope through standardization. 
+Which of these statements are FALSE?"	D	2, 3, 5	2, 3, 4, 5	1, 2, 3, 4, 5	1, 3, 4	None of the above	BOOKS__1326	hard
+"1. The concept of comparative advantage applies only to concentrated industries with high barriers to entry. 
+2. Long-term commitments by multinationals can lead to corporate inertia in changing global competitive climates. 
+3. In global oligopolies, firm characteristics have minimal impact on strategic posture and trade patterns. 
+4. Government intervention in oligopolistic industries can shift the balance between firms of different countries. 
+5. In fragmented industries, country factors primarily determine the location of production and the direction of exports. 
+Which of these statements are TRUE?"	D	4	2, 3, 4, 5	5	2, 4, 5	None of the above	BOOKS__1330	hard
+"1. A firm can have a positive accounting profit and still have a negative economic profit. 
+2. Implicit costs are always associated with actual cash payments made by the firm. 
+3. Explicit costs are also known as out-of-pocket costs that can be quantified in monetary terms. 
+4. Accounting profit takes into account only explicit costs, ignoring implicit costs. 
+Which of these statements are TRUE?"	B	2, 4	1, 3, 4	All choices are correct	1, 2, 3, 4	None of the above	BOOKS__1411	medium
+"1. The baby boom refers to a decrease in births during the years 1946 to 1964. 
+2. Life expectancy has generally increased, contributing to the aging of the U.S. population. 
+3. The majority of the U.S. resident population consists of African Americans, making up 50% or more. 
+Which of these statements are TRUE?"	C	1, 2, 3	1, 3	2	All choices are correct	None of the above	BOOKS__1686	easy
+"What was the proportion of current liabilities relative to total assets as at 31 December 2022?
+
+## TABLE
+**CONSOLIDATED STATEMENT OF FINANCIAL POSITION AS AT 31 DECEMBER 2022**  
+(Thousands of Euros)
+
+| ASSETS | Notes | 31/12/2022 | 31/12/2021 | EQUITY AND LIABILITIES | Notes | 31/12/2022 | 31/12/2021 |
+|--------|-------|------------|------------|-------------------------|-------|------------|------------|
+| **NON-CURRENT ASSETS** | | | | **EQUITY** | | | |
+| Goodwill | 4 | 792,897 | 725,789 | Share capital | 12.a | 12,356 | 13,070 |
+| Other intangible assets | 5 | 374,092 | 419,967 | Share premium | 12.b | 449,391 | 449,391 |
+| Right of use assets | 26.a | 177,395 | 180,704 | Retained earnings and other reserves | | 153,957 | 187,871 |
+| Property, plant and equipment | 7 | 253,057 | 253,774 | Profit/(Loss) for the year attributable to the Parent | | 48,600 | 32,242 |
+| Investments accounted for using the equity method | | 3,403 | 520 | Treasury Shares | 12.c | (11,117) | (3,427) |
+| Non-current financial assets | 8 | 17,096 | 17,693 | Valuation adjustments – Foreign currency translation reserve | 12.e | (43,440) | (81,136) |
+| Deferred tax assets | 20.c | 58,163 | 61,024 | **EQUITY ATTRIBUTABLE TO THE SHAREHOLDERS OF THE PARENT** | | **606,747** | **617,951** |
+| **Total non-current assets** | | **1,676,103** | **1,659,487** | Non-controlling interests | 13 | 36,200 | 48,715 |
+| | | | | **Total Equity** | | **642,947** | **666,366** |
+| **CURRENT ASSETS** | | | | **NON-CURRENT LIABILITIES** | | | |
+| Non-current assets classified as held for sale | 3.y | 37,497 | - | Long-term provisions | 17 & 27.b | 37,030 | 34,265 |
+| Inventories | 9 | 9,753 | 11,240 | Obligations and bank borrowings | 14 | 808,611 | 724,804 |
+| Trade and other receivables – Trade and other receivables | 10 | 447,422 | 393,098 | Obligations under leases | 26.a | 136,143 | 144,968 |
+| Trade receivables from related companies | 10 & 28 | 187 | 221 | Other financial liabilities | 15 | 22,157 | 22,805 |
+| Other receivables | 10 | 27,845 | 26,978 | Deferred tax liabilities | 20.d | 109,707 | 124,450 |
+| Corporate income tax assets | 20.b | 20,313 | 17,707 | Other non-current liabilities | 18 | 89,070 | 75,352 |
+| Other current assets | | 23,251 | 15,824 | **Total non-current liabilities** | | **1,203,083** | **1,126,645** |
+| Other current financial assets | 11 | 7,423 | 6,386 | **CURRENT LIABILITIES** | | | |
+| Cash and cash equivalents | | 183,010 | 176,546 | Liabilities linked to non-current assets held for sale | 3.y | 16,538 | - |
+| **Total current assets** | | **756,501** | **646,998** | Short-term provisions | | 7,972 | 7,487 |
+| **TOTAL ASSETS** | | **2,432,604** | **2,306,485** | Obligations and bank borrowings | 14 | 27,326 | 47,074 |
+| | | | | Obligations under leases | 26.a | 62,715 | 54,540 |
+| | | | | Trade and other payables | 19 | 295,159 | 290,210 |
+| | | | | Trade payables from related companies | 19 & 28 | 13,794 | 19,920 |
+| | | | | Corporate income tax liabilities | 20.b | 19,154 | 18,895 |
+| | | | | Other current liabilities | | 83,884 | 86,807 |
+| | | | | **Total current liabilities** | | **585,889** | **515,934** |
+| | | | | **TOTAL EQUITY AND LIABILITIES** | | **2,432,604** | **2,306,485** |
+"	A	24.08%	25.00%	23.94%	22.05%	None of the above	FINANCIALS__4358	hard
+"What total cash flow hedge profit is reported directly as equity for the year 2024?
+
+## TABLE
+### Consolidated statement of comprehensive income  
+(Amounts in millions of euros)
+
+| Notes | 2024 | 2023 |
+|-------|------|------|
+| Net profit | 5,877 | 5,395 |
+| **Items that will be reclassified to the income statement in future years** | | |
+| Other comprehensive income recognised directly in equity: | | |
+| Translation differences related to financial statements of foreign operations | (72) | (40) |
+| Cash flow hedges | | |
+| – Profit | (26) 7 | - |
+| – Loss | (26) - | (1) |
+| Tax effect | (2) | (1) |
+| **Total** | **(67)** | **(42)** |
+| **Transfers to the income statement:** | | |
+| Cash flow hedges | | |
+| – Profit | (26) 1 | 14 |
+| – Loss | (26) - | - |
+| Tax effect | - | (2) |
+| **Total** | **1** | **12** |
+| **Total comprehensive income for the period** | **5,811** | **5,365** |
+| **Total comprehensive income attributable to:** | | |
+| Equity holders of the Parent | 5,800 | 5,351 |
+| Non-controlling interests | 11 | 14 |
+| **Total comprehensive income for the year** | **5,811** | **5,365** |
+"	A	€(26) million	€1 million	€14 million	€7 million	None of the above	FINANCIALS__4844	medium
+"What is the amount of ordinary shares in KRW as of December 31, 2024?
+
+## TABLE
+### **CONSOLIDATED STATEMENTS OF FINANCIAL POSITION**  
+(In millions of Korean won, in thousands of US dollars)
+
+| Notes | December 31, 2024 (KRW) | December 31, 2023 (KRW) | December 31, 2024 (USD) | December 31, 2023 (USD) |
+|-------|--------------------------|--------------------------|--------------------------|--------------------------|
+| **Equity attributable to owners of the parent company** | | | | |
+| Preference shares | 18 | 119,467 | 119,467 | 87,644 | 87,644 |
+| Ordinary shares | 18 | 778,047 | 778,047 | 570,795 | 570,795 |
+| Share premium | | 4,403,893 | 4,403,893 | 3,230,807 | 3,230,807 |
+| Retained earnings | 19 | 370,513,188 | 346,652,238 | 271,817,840 | 254,312,844 |
+| Other components of equity | 20, 33 | 15,873,008 | 1,280,130 | 11,644,840 | 939,136 |
+| **Total equity attributable to owners of the parent company** | | **391,687,603** | **353,233,775** | **287,351,926** | **259,141,226** |
+| Non-controlling interests | 31 | 10,504,467 | 10,444,090 | 7,706,342 | 7,662,049 |
+| **Total equity** | | **402,192,070** | **363,677,865** | **295,058,268** | **266,803,275** |
+| **Total liabilities and equity** | | **514,531,948** | **455,905,980** | **377,473,643** | **334,464,151** |
+"	B	119,467	778,047	570,795	4,403,893	None of the above	FINANCIALS__4415	easy
+"1. When considering cases of harmful activities, it is essential to balance the total reduction in production value against the gains from preventing harmful effects in order to maximize social welfare. 
+2. Government regulations or taxes designed to mitigate harmful effects are always guaranteed to improve overall economic efficiency and social welfare. 
+3. According to the traditional analysis, making a factory liable for the damages it causes would always lead to a socially optimal allocation of resources across all industries. 
+4. In the example of a factory emitting smoke, the commonly suggested remedy is to grant the affected parties the right to sue for damages or receive compensation for the harm caused. 
+Which of these statements are FALSE?"	B	1, 2	2, 3	1, 3, 4	All choices are correct	None of the above	PAPER__3328	hard
+What best describes agency costs in the context of the firm?	A	Costs incurred by principals to ensure agents act in their best interests.	Costs associated solely with the issuance of equity and debt securities.	Costs that arise from regulatory compliance and legal fees.	Costs that are independent of the ownership structure of the firm.	None of the above	PAPER__2829	medium
+What is the main characteristic of a banking panic as described in the context of the current financial system?	A	The banking system is insolvent and cannot honor its obligations.	Depositors withdraw funds from their accounts in a panic.	The financial system is fully backed by government securities.	The majority of depositors can accurately assess the solvency of their banks.	None of the above	PAPER__3189	easy

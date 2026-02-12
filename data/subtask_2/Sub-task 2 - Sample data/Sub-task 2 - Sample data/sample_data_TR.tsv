@@ -1,0 +1,115 @@
+question	correct_answer	choiceA	choiceB	choiceC	choiceD	choiceE	custom_id	difficulty_level
+"1. Geleneksel çok uluslu şirket, yüksek düzeyde küresel kümelenmeye ve düşük düzeyde yerel adaptasyona sahiptir.
+2. Uluslararası organizasyon modeli, şirketlerin yurtiçi satışlarına güçlü bir bağımlılığa sahip olması ve ürünleri fırsatçı bir şekilde ihraç etmesi ile karakterize edilir.
+3. Ulusötesi model, karar almada daha verimli olmak için yönetim süreçlerini en aza indirmeyi amaçlar.
+4. Çok uluslu örgütlenme modeli, bir şirketin merkezinden bağlı şirketlerine önemli ölçüde bilgi aktarımına izin verir.
+5. Küresel şirketler, öncelikle standardizasyon yoluyla ölçek ve kapsam ekonomilerini geliştirmek için küresel olarak entegre stratejilerle çalışırlar.
+Bu ifadelerden hangileri YANLIŞTIR?"	D	2, 3, 5	2, 3, 4, 5	1, 2, 3, 4, 5	1, 3, 4	Yukarıdakilerin hiçbiri	BOOKS__1326	hard
+"1. Karşılaştırmalı üstünlük kavramı yalnızca giriş engellerinin yüksek olduğu yoğunlaşmış endüstriler için geçerlidir.
+2. Çok uluslu şirketlerin uzun vadeli taahhütleri, değişen küresel rekabet ikliminde kurumsal atalete yol açabilir.
+3. Küresel oligopollerde, firma özelliklerinin stratejik duruş ve ticaret modelleri üzerinde minimum etkisi vardır.
+4. Oligopolistik endüstrilere devlet müdahalesi, farklı ülkelerin firmaları arasındaki dengeyi değiştirebilir.
+5. Parçalanmış endüstrilerde, ülke faktörleri öncelikle üretimin yerini ve ihracatın yönünü belirler.
+Bu ifadelerden hangileri DOĞRUDUR?"	D	4	2, 3, 4, 5	5	2, 4, 5	Yukarıdakilerin hiçbiri	BOOKS__1330	hard
+"1. Bir firma pozitif bir muhasebe kârına ve yine de negatif bir ekonomik kâra sahip olabilir.
+2. Örtülü maliyetler her zaman firma tarafından yapılan fiili nakit ödemelerle ilişkilidir.
+3. Açık maliyetler, parasal olarak ölçülebilen cepten maliyetler olarak da bilinir.
+4. Muhasebe karı sadece açık maliyetleri dikkate alır, örtülü maliyetleri göz ardı eder.
+Bu ifadelerden hangileri DOĞRUDUR?"	B	2, 4	1, 3, 4	Tüm seçenekler doğru	1, 2, 3, 4	Yukarıdakilerin hiçbiri	BOOKS__1411	medium
+"1. Bebek patlaması, 1946 ile 1964 yılları arasında doğumların azalması anlamına gelmektedir.
+2. Yaşam beklentisi genel olarak artarak ABD nüfusunun yaşlanmasına katkıda bulunmuştur.
+3. ABD'de yerleşik nüfusun çoğunluğunu, %50 veya daha fazlasını oluşturan Afrikalı Amerikalılar oluşturmaktadır.
+Bu ifadelerden hangileri DOĞRUDUR?"	C	1, 2, 3	1, 3	2	Tüm seçenekler doğru	Yukarıdakilerin hiçbiri	BOOKS__1686	easy
+"Kısa vadeli yükümlülüklerin toplam varlıklara oranı 31 Aralık 2022 itibarıyla ne kadardır?
+
+## TABLO
+**31 ARALIK 2022 TARİHİ İTİBARIYLA KONSOLİDE FİNANSAL DURUM TABLOSU**
+(Bin Avro)
+
+| VARLIKLAR | Dipnotlar | 31/12/2022 | 31/12/2021 | ÖZKAYNAKLAR VE YÜKÜMLÜLÜKLER | Dipnotlar | 31/12/2022 | 31/12/2021 |
+|--------|-------|------------|------------|-------------------------|-------|------------|------------|
+| **DURAN VARLIKLAR** | | **ÖZKAYNAKLAR** | | |
+| Şerefiye | 4 | 792,897 | 725,789 | Sermaye | 12.a | 12,356 | 13,070 |
+| Diğer maddi olmayan duran varlıklar | 5 | 374,092 | 419,967 | Hisse senedi ihraç primleri | 12.b | 449,391 | 449,391 |
+| Kullanım hakkı varlıkları | 26.a | 177.395 | 180.704 | Geçmiş yıllar karları ve diğer yedekler | 153.957 | 187.871 |
+| Maddi duran varlıklar | 7 | 253.057 | 253.774 | Ana ortaklığa ait dönem karı/(zararı) | 48.600 | 32.242 |
+| Özkaynak yöntemiyle değerlenen yatırımlar | | 3.403 | 520 | Geri alınmış paylar | 12.c | (11.117) | (3.427) |
+| Duran finansal varlıklar | 8 | 17.096 | 17.693 | Değerleme düzeltmeleri - Yabancı para çevrim farkları | 12.e | (43.440) | (81.136) |
+| Ertelenmiş vergi varlığı | 20.c | 58,163 | 61,024 | **ANA ORTAKLIK PAYLARINA ATFEDİLEBİLİR ÖZKAYNAKLAR** | **606,747** | **617,951** |
+| Toplam duran varlıklar** | **1.676.103** | **1.659.487** | Kontrol gücü olmayan paylar | 13 | 36.200 | 48.715 |
+| Toplam özkaynak** | | **642.947** | **666.366** |
+| **DURAN VARLIKLAR** | | **DURAN OLMAYAN YÜKÜMLÜLÜKLER** | | |
+| Satış amaçlı elde tutulan duran varlıklar | 3.y | 37,497 | - | Uzun vadeli karşılıklar | 17 & 27.b | 37,030 | 34,265 |
+| Stoklar | 9 | 9.753 | 11.240 | Tahvil ve banka kredileri | 14 | 808.611 | 724.804 |
+| Ticari ve diğer alacaklar - Ticari ve diğer alacaklar | 10 | 447.422 | 393.098 | Kiralama işlemlerinden borçlar | 26.a | 136.143 | 144.968 |
+| İlişkili şirketlerden ticari alacaklar | 10 & 28 | 187 | 221 | Diğer finansal yükümlülükler | 15 | 22.157 | 22.805 |
+| Diğer alacaklar | 10 | 27.845 | 26.978 | Ertelenmiş vergi yükümlülüğü | 20.d | 109.707 | 124.450 |
+| Kurumlar vergisi varlığı | 20.b | 20,313 | 17,707 | Diğer uzun vadeli yükümlülükler | 18 | 89,070 | 75,352 |
+| Diğer dönen varlıklar | | 23.251 | 15.824 | **Toplam uzun vadeli yükümlülükler** | **1.203.083** | **1.126.645** |
+| Diğer dönen finansal varlıklar | 11 | 7.423 | 6.386 | **DÖNEN YÜKÜMLÜLÜKLER** | | | |
+| Nakit ve nakit benzerleri | 183.010 | 176.546 | Satış amaçlı elde tutulan duran varlıklara ilişkin yükümlülükler | 3,y | 16.538 | - |
+| Toplam dönen varlıklar** | **756.501** | **646.998** | Kısa vadeli karşılıklar | 7.972 | 7.487 |
+| **TOPLAM VARLIKLAR** | **2.432.604** | **2.306.485** | Tahviller ve banka kredileri | 14 | 27.326 | 47.074 |
+| | | Kiralamadaki tahviller | 26.a | 62,715 | 54,540 |
+| Ticari ve diğer borçlar | 19 295.159 | 290.210 |
+| | İlişkili şirketlerden ticari borçlar | 19 & 28 | 13.794 | 19.920 |
+| Kurumlar vergisi yükümlülüğü | 20.b | 19,154 | 18,895 |
+| | Diğer kısa vadeli yükümlülükler | 83.884 | 86.807 |
+| Toplam kısa vadeli yükümlülükler** | **585.889** | **515.934** |
+| TOPLAM ÖZKAYNAK VE YÜKÜMLÜLÜKLER** | **2,432,604** | **2,306,485** |
+"	A	24.08%	25.00%	23.94%	22.05%	Yukarıdakilerin hiçbiri	FINANCIALS__4358	hard
+"2024'te doğrudan özkaynak olarak raporlanan toplam nakit akışı riskinden korunma karı ne kadardır?
+
+## TABLO
+### Konsolide kapsamlı gelir tablosu
+(Tutarlar milyon Avro cinsinden)
+
+| Notlar | 2024 | 2023 |
+|-------|------|------|
+| Net kâr | 5.877 | 5.395 |
+| **Gelecek yıllarda gelir tablosunda yeniden sınıflandırılacak kalemler** | | |
+| Doğrudan özkaynakta muhasebeleştirilen diğer kapsamlı gelir: | | |
+| Yurtdışı faaliyetlerin finansal tablolarına ilişkin çevrim farkları | (72) | (40) |
+| Nakit akış riskinden korunma | | |
+| - Kâr | (26) 7 | - |
+| - Kayıp | (26) - | (1) |
+| Vergi etkisi | (2) | (1) |
+| **Toplam** | **(67)** | **(42)** |
+| **Gelir tablosuna transferler:** | | |
+| Nakit akış riskinden korunma | | |
+| - Kâr | (26) 1 | 14 |
+| - Kayıp | (26) - | - |
+| Vergi etkisi | - | (2) |
+| **Toplam** | **1** | **12** |
+| **Dönem için toplam kapsamlı gelir** | **5.811** | **5.365** |
+| **Atfedilebilen toplam kapsamlı gelir:** | | |
+| Ana ortaklığa ait özkaynaklar | 5.800 | 5.351 |
+| Kontrol gücü olmayan paylar | 11 | 14 |
+| **Yılın toplam kapsamlı geliri** | **5.811** | **5.365** |
+"	A	€(26) milyon	1 milyon Avro	14 milyon Avro	7 milyon Avro	Yukarıdakilerin hiçbiri	FINANCIALS__4844	medium
+"Adi hisselerin 31 Aralık 2024 itibariyle KRW cinsinden tutarı nedir?
+
+## TABLO
+### **KONSOLİDE FİNANSAL DURUM TABLOLARI**
+(Milyon Kore wonu, bin ABD doları cinsinden)
+
+| Notlar | 31 Aralık 2024 (KRW) | 31 Aralık 2023 (KRW) | 31 Aralık 2024 (ABD Doları) | 31 Aralık 2023 (ABD Doları) |
+|-------|--------------------------|--------------------------|--------------------------|--------------------------|
+| **Ana şirket hissedarlarına atfedilebilir özkaynak** | | | | |
+| İmtiyazlı hisseler | 18 | 119.467 | 119.467 | 87.644 | 87.644 |
+| Adi hisseler | 18 | 778.047 | 778.047 | 570.795 | 570.795 |
+| Hisse senedi ihraç primi | 4.403.893 | 4.403.893 | 3.230.807 | 3.230.807 |
+| Geçmiş yıllar karları | 19 | 370.513.188 | 346.652.238 | 271.817.840 | 254.312.844 |
+| Özkaynakların diğer bileşenleri | 20, 33 | 15.873.008 | 1.280.130 | 11.644.840 | 939.136 |
+| **Ana şirket sahiplerine atfedilebilen toplam özkaynak** | **391.687.603** | **353.233.775** | **287.351.926** | **259.141.226** |
+| Kontrol gücü olmayan paylar | 31 | 10.504.467 | 10.444.090 | 7.706.342 | 7.662.049 |
+| **Toplam özkaynak** | | **402.192.070** | **363.677.865** | **295.058.268** | **266.803.275** |
+| **Toplam yükümlülükler ve özkaynaklar** | **514.531.948** | **455.905.980** | **377.473.643** | **334.464.151** |
+"	B	119,467	778,047	570,795	4,403,893	Yukarıdakilerin hiçbiri	FINANCIALS__4415	easy
+"1. Zararlı faaliyetler söz konusu olduğunda, toplumsal refahı en üst düzeye çıkarmak için üretim değerindeki toplam azalma ile zararlı etkilerin önlenmesinden elde edilecek kazanımların dengelenmesi esastır.
+2. Zararlı etkileri azaltmak için tasarlanan hükümet düzenlemeleri veya vergilerin her zaman genel ekonomik verimliliği ve sosyal refahı artıracağı garanti edilir.
+3. Geleneksel analize göre, bir fabrikanın neden olduğu zararlardan sorumlu tutulması, her zaman tüm endüstriler arasında sosyal açıdan optimal bir kaynak dağılımına yol açacaktır.
+4. Duman yayan bir fabrika örneğinde, yaygın olarak önerilen çözüm, etkilenen taraflara tazminat davası açma veya neden olunan zarar için tazminat alma hakkı vermektir.
+Bu ifadelerden hangisi YANLIŞTIR?"	B	1, 2	2, 3	1, 3, 4	Tüm seçenekler doğru	Yukarıdakilerin hiçbiri	PAPER__3328	hard
+Firma bağlamında vekalet maliyetlerini en iyi ne tanımlar?	A	Acentelerin kendi çıkarları doğrultusunda hareket etmelerini sağlamak için müdürler tarafından katlanılan maliyetler.	Yalnızca özkaynak ve borçlanma senetlerinin ihracıyla ilişkili maliyetler.	Mevzuata uyum ve yasal ücretlerden kaynaklanan maliyetler.	Firmanın sahiplik yapısından bağımsız olan maliyetler.	Yukarıdakilerin hiçbiri	PAPER__2829	medium
+Mevcut finansal sistem bağlamında tanımlandığı şekliyle bir bankacılık paniğinin temel özelliği nedir?	A	Bankacılık sistemi iflas etmiştir ve yükümlülüklerini yerine getirememektedir.	Mevduat sahipleri panik içinde hesaplarından para çekerler.	Mali sistem tamamen devlet tahvilleri ile desteklenmektedir.	Mevduat sahiplerinin çoğunluğu bankalarının ödeme gücünü doğru bir şekilde değerlendirebilmektedir.	Yukarıdakilerin hiçbiri	PAPER__3189	easy
